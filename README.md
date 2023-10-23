@@ -1,2 +1,2 @@
 # CommunityDocumentation
-This where you will learn of get started with KSP2 modding!
+This where you will learn how to get started with KSP2 modding!
