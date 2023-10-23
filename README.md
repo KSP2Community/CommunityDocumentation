@@ -6,4 +6,4 @@ Head to the wiki : https://github.com/KSP2Community/CommunityDocumentation/wiki
 ------------
 Markdown cheatsheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Official GitHub Markdown documentation : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+Official GitHub Markdown documentation : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
